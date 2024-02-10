@@ -1,6 +1,6 @@
 
 const buttons = document.querySelectorAll(".button")
-console.log(buttons)
+//console.log(buttons)
 const body = document.querySelector("body");
 //console.log(body)
 const buttonArr = Array.from(buttons)
