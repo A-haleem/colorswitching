@@ -1,0 +1,33 @@
+#canvas,button{
+    width : 50%;
+    height: 75px;
+    margin-left: 300px;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+h1{
+    margin-left: 100px;
+}
+.button{
+    display: inline;
+    margin-left: 15px;
+    width: 85px;
+    height: 80px;
+    border: none;
+    box-shadow: 0 5px 10px 0 rgba(0 0, 255, 0.3);
+    border-radius: 15px;
+}
+.button{
+    background-color: grey;
+    color: #fff;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    height: 80px;
+    
+}
+
